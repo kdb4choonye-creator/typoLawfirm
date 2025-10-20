@@ -733,9 +733,15 @@ a {
   background-color: #fafafa;
 }
 .cid-v09S9jHj19 {
-  padding-top: 0rem;
-  padding-bottom: 4rem;
+  padding-top: 1rem;
+  padding-bottom: 3rem;
   background-color: #fafafa;
+}
+.cid-v09S9jHj19 .mbr-text {
+  text-align: center;
+}
+.cid-v09S9jHj19 .mbr-section-title {
+  text-align: center;
 }
 .cid-v09MBVoXEC {
   padding-top: 0rem;
