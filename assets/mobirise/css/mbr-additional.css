@@ -18,12 +18,12 @@ body {
   font-size: 3.75rem;
 }
 .display-4 {
-  font-family: 'Jost', sans-serif;
-  font-size: 1.2rem;
+  font-family: 'Lato', sans-serif;
+  font-size: 1.4rem;
   line-height: 1.5;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.5rem;
+  font-size: 1.75rem;
 }
 .display-5 {
   font-family: 'Jost', sans-serif;
@@ -63,9 +63,9 @@ body {
     line-height: calc( 1.3 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.96rem;
-    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.12rem;
+    font-size: calc( 1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 1.28rem;
@@ -586,13 +586,13 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Jost', sans-serif;
-  font-size: 1.2rem;
+  font-family: 'Lato', sans-serif;
+  font-size: 1.4rem;
   line-height: 1.5;
   font-weight: 400;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.5rem;
+  font-size: 1.75rem;
 }
 .form-control:hover,
 .form-control:focus {
@@ -600,13 +600,13 @@ a:hover {
   border-color: #6592e6 !important;
 }
 .form-control:-webkit-input-placeholder {
-  font-family: 'Jost', sans-serif;
-  font-size: 1.2rem;
+  font-family: 'Lato', sans-serif;
+  font-size: 1.4rem;
   line-height: 1.5;
   font-weight: 400;
 }
 .form-control:-webkit-input-placeholder > .mbr-iconfont {
-  font-size: 1.5rem;
+  font-size: 1.75rem;
 }
 blockquote {
   border-color: #6592e6;
@@ -689,11 +689,11 @@ a {
 }
 .cid-v09I2XyvlB {
   display: flex;
-  background-image: url("../../../assets/images/background12.jpg");
+  background-image: url("../../../assets/images/advogado-justica-balanca-direito-1024x683.jpg");
 }
 .cid-v09I2XyvlB .mbr-overlay {
-  background-color: #353535;
-  opacity: 0.5;
+  background-color: #000000;
+  opacity: 0.6;
 }
 .cid-v09I2XyvlB .content-wrap {
   padding: 5rem 1rem;
@@ -730,12 +730,18 @@ a {
 .cid-v09IbCG7uK {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #fafafa;
+  background-color: #ffffff;
+}
+.cid-v09IbCG7uK .mbr-text {
+  color: #000000;
+}
+.cid-v09IbCG7uK .mbr-section-subtitle {
+  color: #000000;
 }
 .cid-v0a1Wo3HdO {
   padding-top: 5rem;
-  padding-bottom: 3rem;
-  background-color: #fafafa;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
 }
 .cid-v0a1Wo3HdO .mbr-fallback-image.disabled {
   display: none;
@@ -762,54 +768,30 @@ a {
   color: #6592e6;
   padding-right: 1.5rem;
 }
-.cid-v09MBVoXEC {
-  padding-top: 6rem;
-  padding-bottom: 4rem;
-  background-color: #fafafa;
+.cid-v0a1Wo3HdO .card-title {
+  color: #000000;
 }
-.cid-v09MBVoXEC .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-v09MBVoXEC .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-v09MBVoXEC .item-wrapper {
-  display: flex;
-}
-@media (max-width: 991px) {
-  .cid-v09MBVoXEC .item-wrapper {
-    margin-bottom: 2rem;
-  }
-}
-.cid-v09MBVoXEC .mbr-iconfont {
-  font-size: 2rem;
-  color: #6592e6;
-  padding-right: 1.5rem;
-}
-.cid-v09MBVoXEC .card-text {
-  text-align: center;
-}
-.cid-v09MBVoXEC .card-title {
-  text-align: center;
+.cid-v0a1Wo3HdO .card-text {
+  color: #000000;
 }
 .cid-v09JBGF2eZ {
   padding-top: 5rem;
   padding-bottom: 1rem;
-  background-color: #fafafa;
+  background-color: #ffffff;
+}
+.cid-v09JBGF2eZ .mbr-text {
+  color: #000000;
 }
 .cid-v09NXTyW4F {
   padding-top: 0rem;
   padding-bottom: 4rem;
-  background-color: #fafafa;
+  background-color: #ffffff;
+}
+.cid-v09NXTyW4F .mbr-text {
+  color: #000000;
 }
 .cid-v09OxRc8vK {
-  padding-top: 5rem;
+  padding-top: 4rem;
   padding-bottom: 0rem;
   background-color: #fafafa;
 }
@@ -842,6 +824,9 @@ a {
   font-weight: bold;
   font-size: 2rem;
   width: 1.6rem;
+}
+.cid-v09OxRc8vK H3 {
+  color: #000000;
 }
 .cid-v09KjXcm1f {
   padding-top: 0rem;
@@ -911,6 +896,16 @@ a {
     padding-right: 4rem;
   }
 }
+.cid-v09KjXcm1f .card-title {
+  color: #000000;
+}
+.cid-v09KjXcm1f .mbr-text,
+.cid-v09KjXcm1f .social-row {
+  color: #000000;
+}
+.cid-v09KjXcm1f .card-subtitle {
+  color: #000000;
+}
 .cid-v09K4qj1px {
   padding-top: 0rem;
   padding-bottom: 6rem;
@@ -979,10 +974,13 @@ a {
     padding-right: 4rem;
   }
 }
+.cid-v09K4qj1px .card-subtitle {
+  color: #232323;
+}
 .cid-v09KZ353RM {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #fafafa;
+  background-color: #ffffff;
 }
 .cid-v09KZ353RM .mbr-fallback-image.disabled {
   display: none;
@@ -1013,7 +1011,7 @@ a {
   width: 20px;
   height: 20px;
   border-radius: 50%;
-  border: 2px solid #6592e6;
+  border: 2px solid #bbbbbb;
   top: 30px;
   margin-left: -9px;
   padding: 0;
@@ -1024,7 +1022,7 @@ a {
   position: absolute;
   content: "";
   width: 2px;
-  background-color: #6592e6;
+  background-color: #bbbbbb;
   left: 33.33%;
   height: calc(100% + 30px);
 }
@@ -1065,7 +1063,14 @@ a {
 }
 .cid-v09KZ353RM .mbr-timeline-date {
   text-align: right;
+  color: #000000;
 }
 .cid-v09KZ353RM .mbr-text {
+  color: #000000;
+}
+.cid-v09KZ353RM .mbr-section-title {
+  color: #000000;
+}
+.cid-v09KZ353RM .mbr-timeline-title {
   color: #000000;
 }
