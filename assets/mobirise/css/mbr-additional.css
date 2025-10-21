@@ -689,11 +689,11 @@ a {
 }
 .cid-v09I2XyvlB {
   display: flex;
-  background-image: url("../../../assets/images/advogado-justica-balanca-direito-1024x683.jpg");
+  background-image: url("../../../assets/images/screenshot202025-10-2120100457-1369x897.png");
 }
 .cid-v09I2XyvlB .mbr-overlay {
   background-color: #000000;
-  opacity: 0.6;
+  opacity: 0.5;
 }
 .cid-v09I2XyvlB .content-wrap {
   padding: 5rem 1rem;
@@ -726,6 +726,13 @@ a {
   .cid-v09I2XyvlB .content-wrap {
     width: 100%;
   }
+}
+.cid-v09I2XyvlB .mbr-section-title {
+  text-align: justify;
+}
+.cid-v09I2XyvlB .mbr-text,
+.cid-v09I2XyvlB .mbr-section-btn {
+  text-align: justify;
 }
 .cid-v09IbCG7uK {
   padding-top: 5rem;
